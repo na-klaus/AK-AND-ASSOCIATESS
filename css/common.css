@@ -7,11 +7,11 @@
            font-weight: 500;
        }
        .bg-yellow{
-        background-color: #E0C389;
+        background-color: #dfb1b1;
        }
        .btn-yellow-t{
-        border: 1px solid #E0C389;
-        color:#E0C389;
+        border: 1px solid #000000;
+        color:#000000;
         font-weight: bold;
         font-size: 16px;
         padding:1rem 2.5rem ;
@@ -25,7 +25,7 @@
             background-color:   #F5F5F5;
        }
        .bg-light-60{
-        background-color: #f8f8f8 !important;
+        background-color: #99c8ce !important;
        }
        .bg-scan{
         background-color: #1D1F25;
@@ -341,7 +341,7 @@
                 background-color: transparent !important;
             }
             .nav-link-Header{
-                color:#000 !important;
+                color:#084e5f !important;
                 transition: all 0.5s ease-in-out;
             }
             .link-header-active,.nav-link-Header:hover {
